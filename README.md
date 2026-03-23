@@ -1,6 +1,15 @@
 # RoC Hackathon — Hybrid Creator Search Engine
 Built for RoCathon — a hackathon by ReturnOnCreators.
 
+A fully working hybrid search engine built for the ReturnOnCreators hackathon 
+that ranks TikTok Shop creators by combining semantic relevance with real 
+commerce performance signals.
+
+## The Problem
+Brands searching for creators on TikTok Shop face two failure modes:
+- Rigid keyword filters miss creative context
+- Pure semantic search returns high-vibe, zero-sales creators
+
 Hybrid search engine that finds and ranks TikTok Shop creators by fusing 
 natural language understanding with real commerce signals (GMV, projected score).
 
